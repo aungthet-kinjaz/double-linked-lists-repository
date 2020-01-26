@@ -1,5 +1,3 @@
-package atk.employee.linkedlist2;
-
 public class UserDoubleLinkedList {
 
 	private UserNode head;
